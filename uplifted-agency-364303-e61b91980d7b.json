@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "uplifted-agency-364303",
+  "private_key_id": "e61b91980d7bd0c69c500ec71fb4a64e7aa522de",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJAhhnyITjItxp\n4jWhSiuRSCeJGovBBRLRXNvJa105WjTgiyBNyZPPhX1aSFT6Nr77SQs7U59xYZHS\nIukXP+0xprJKY/bQHmbTyJeGkttwJ3FnKiet3qSUbxGAZoZjolMdqNVoZLtGXNsg\nMww2NngFYMcRhM+Ag3KiubsEvD6NmZeccN+Mu5wfnAVGLTKATIAdm5RRKG6yqZ7p\nUEbLKrXuliUtSjFAPhvjz4BJxX5tfUPsbxN8ShXYTv2mMtsx+OA9LWRPIwhy4/6s\n0cklHV5kcvMe02xyNI4edw4Fhd1HSsv1X6EBHVoOu9FgBeoBTjxZF9LVF3TC0KEL\nFH4V2K/PAgMBAAECggEAGtnTTcXM7pSBEgncNSP1xu33DgsEQS/+0AXR/EmBxgAF\nUTt0gL+dJZsE4DMKWvRGNcYPoIiuo1QvyPzN20O4WSoV5fcNiMaO4NqKVzk14/j4\n3pmUfFbh8EwX7+mCKTwNU0hy3YObOq57vQTkrDdBeCJx5SazG00z2oXp9Bt7VanC\nmvQdiLmX4cbLNXARmUz7wDdtIzFpX90zrE+XCpjHmtZWYnGEpuNvEaYETZ7L5EzB\nkNFW5dKx9Tosz0TiB8Ko/5jkLtqgGWrrRTbm8YxQPfvNDA8N8lasqRXeN5AcGDOL\neas7Tp2fvlu+VTKQndH/vxrhHRyxFPgd+8EL1uFa6QKBgQDtPwyO1+VhGP0J2z4K\nP/WGlcqYPu9N7rGRDusDxjzZW+PMkafrHalaS55AW/OyfkRSqCgunJMT1TMLqW/3\nehn4mTC2oHZumv5axd5sEm5svwvP9CvWsKGGUyocQOIIU8+hbCc5nNROsEgNs5di\nNjI1r21cGcilX8V2dRNLUjuBJwKBgQDY5boJ8fa3JdTy5sfxR61W+4Hu0i53nwE0\nr64FPWagJ8oKVU85Pfa7r2h5j6gzCg/2rKFRplbShnX3S+KBkBxKg+WkYEvek14c\nugPduZ543hZiaCIYORGTX6yWI9e7Ymgu0FEDBc5c/7GMHYOTWO4oZ7TllreQdANJ\neCmI+NQ1GQKBgQCRe2Q8A/BJBoXEkYkNyALLsPc3PQCKDaEdjsRW4C1YLJ0YSQlr\niBjdohk85iYegodrGGrrimA2fTp8ID7kxx897tKMawG0+Z6YE1Y9d1/3l3+q2dQ4\nJsAmGsFr6e2xpZNhLW0wSxd12WuV21cthoZrnVO2cqkzn/L6nPhj691JaQKBgCQ3\nX7QPafG06HTSoiognMn8XvrAr6+bpjjk6LrJQNyXKD5Hdl4JgaxfIqPBoAU9teKr\nephGnRK0DviG/EBEDuVGVs72oVR96OYFDWY1e0eVVcmCt8axqMSh4hCD1Z7dVKYU\ndKJ7krSmoT/TIcg1vjaS8nqviuEc7fuTi+PqIIzpAoGAQ/nBUV/N6iwXNSPIbjzT\nmIYu4+wPrBGLzFszV5Lxi0Ob5ZF8o+Oc9KUAXOgwAABsFariulZDfSH+4tYxzE+I\nNMe6+Ukadw2sRmC10xm3MzE6rlG/8D7e6joA/4uEZEx5Aob0ls3FPuI01Pen1qmz\nG3S/0pEI0vtVCd6rUjrL6OY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "raichi01@uplifted-agency-364303.iam.gserviceaccount.com",
+  "client_id": "100427888670390909968",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/raichi01%40uplifted-agency-364303.iam.gserviceaccount.com"
+}
